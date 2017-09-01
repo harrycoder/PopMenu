@@ -4,6 +4,13 @@
 popmenu的链接：https://github.com/harrycoder/PopMenu<br>
 tooltip的链接：https://github.com/ViHtarb/Tooltip
 
+## Getting started
+### Gradle
+```java
+dependencies {
+    compile 'com.github.harrycoder:PopMenu:v1.0'
+}
+```
 
 ![](https://github.com/harrycoder/PopMenu/blob/master/app/captures/device-2017-09-01-131654.png)
 ![](https://github.com/harrycoder/PopMenu/blob/master/app/captures/device-2017-09-01-131746.png)<br>
