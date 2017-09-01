@@ -7,6 +7,15 @@ tooltip的链接：https://github.com/ViHtarb/Tooltip
 ## Getting started
 ### Gradle
 ```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+```java
 dependencies {
     compile 'com.github.harrycoder:PopMenu:v1.0'
 }
